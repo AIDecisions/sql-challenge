@@ -14,7 +14,9 @@ Pewlett Hackard has some questions which will help them make HR decisions. The q
 The information is stored on flat CSV files. They are located on the data folder. The files were uploaded onto a database with the following schema: 
 ![Pewlett Hackard ERD](./QuickDBD-export.png)
 
-The queries to answer the questions can be found on [Answers](./EmployeeSQL/Answers.sql)
+The queries to answer the questions can be found on [Answers](./EmployeeSQL/Answers.sql).
+
+To create the tables on the database, [employees_db](./EmployeeSQL/employees_db.sql) script was used.
 
 The results from the questions can be found on the [EmployeeSQL](./EmployeeSQL/) directory. 
 
